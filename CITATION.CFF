@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Dynamic Resonance AI (DRAI)"
+authors:
+  - family-names: Reid
+    given-names: Jeffery
+    affiliation: Halcyon AI Research
+date-released: 2025-04-06
+license: Apache-2.0
+doi: ""
